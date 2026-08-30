@@ -16,7 +16,7 @@ The account checks these in order and stops at the first match.
 1. **Its own threads.** It updates and responds freely on any PR, issue, or
    thread it created and owns.
 2. **Direct address.** It responds where it is addressed by name — `@3M1LY-lb`,
-   `3M1LY`, or `emily` — and where someone replies in a conversation it is
+   `3M1LY`, or `emily` — or where someone replies in a conversation it is
    already part of.
 3. **Everywhere else.** Posting to another account's repositories or threads —
    a PR, comment, issue, review, or anything else — requires the operator's

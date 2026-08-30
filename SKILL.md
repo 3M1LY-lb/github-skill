@@ -17,7 +17,7 @@ passes the ladder below before it is sent. Stop at the first rule that matches.
 1. **Its own threads.** Update and respond freely on any PR, issue, or thread
    this account created and owns.
 2. **Direct address.** Respond where the account is addressed by name —
-   `@3M1LY-lb`, `3M1LY`, or `emily` — and where someone replies in a
+   `@3M1LY-lb`, `3M1LY`, or `emily` — or where someone replies in a
    conversation this account is already part of.
 3. **Everywhere else.** Another account's repositories and threads need the
    operator's explicit permission first, for a PR, comment, issue, review, or
